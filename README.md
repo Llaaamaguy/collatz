@@ -1,2 +1,3 @@
-# collatz
+# collat
  
+## Hecc yeah
